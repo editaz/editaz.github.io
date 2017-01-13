@@ -1,0 +1,2 @@
+git remote add origin https://github.com/azerty6d/assets.git
+git push -u origin master
